@@ -6,11 +6,7 @@
 
 I Am A  Mid-Tier / Relatively New WhiteHat Developer, With A Hatred For Skids & Over Confident Poorly Protected Idiots.
 
-- 🔭 I’m currently working with FerretsLLC™.
-- 🌱 I’m currently learning JavaScript / Considering Python.
-- 💬 Ask me about anything Java / JS or HTML Based.                                                                                                           
-- 📫 Contact me through: discord, my tag is 'ShockxZZx#0'                                                                                         
-- 😄 Pronouns: [She / Her]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31yskao4omavn2cezzrd6ftykj7y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 ## My Tech Stack
 
