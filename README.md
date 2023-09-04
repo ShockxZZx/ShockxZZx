@@ -9,7 +9,7 @@ I Am A  Mid-Tier / Relatively New WhiteHat Developer, With A Hatred For Skids & 
 - 🔭 I’m currently working with FerretsLLC™.
 - 🌱 I’m currently learning JavaScript / Considering Python.
 - 💬 Ask me about anything Java / JS or HTML Based.
-- 📫 Contact me through: my discord tag is 'ShockxZZx#0'
+- 📫 Contact me through: discord, my tag is 'ShockxZZx#0'
 - 😄 Pronouns: [She / Her]
 
 ## My Tech Stack
