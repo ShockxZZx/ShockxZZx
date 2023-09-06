@@ -4,7 +4,7 @@
 
 ## About Me
 
-<h1>{</h1>I Am A  Mid-Tier / Relatively New <h1>WhiteHat / RedHat Developer</h1> With A Hatred For Skids & Over Confident Poorly Protected Idiots.<h1>}</h1>
+<h1>{</h1>I Am A  Mid-Tier / Relatively New <h1>RedHat Developer</h1> With A Hatred For Skids & Over Confident Poorly Protected Idiots.<h1>}</h1>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31yskao4omavn2cezzrd6ftykj7y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
